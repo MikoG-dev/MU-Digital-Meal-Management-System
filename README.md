@@ -4,6 +4,17 @@ A **fully offline, mobile-based meal verification and reporting system** develop
 
 ---
 
+## 🖼️ App Screenshots
+
+<p align="center">
+  <img src="screenshots/1.jpg" width="50%"/>
+  <img src="screenshots/2.jpg" width="50%"/>
+  <img src="screenshots/3.jpg" width="50%"/>
+  <img src="screenshots/4.jpg" width="50%"/>
+</p>
+
+---
+
 ## 📌 Overview
 
 Managing student meal distribution manually is error-prone, slow, and vulnerable to misuse.  
@@ -92,17 +103,6 @@ The **MU Digital Meal Management System** is a **Flutter-based mobile applicatio
 
 - Aggregated statistics generated automatically
 - Reports available for administrative review
-
----
-
-## 🖼️ App Screenshots
-
-<p align="center">
-  <img src="screenshots/1.jpg" width="220"/>
-  <img src="screenshots/2.jpg" width="220"/>
-  <img src="screenshots/3.jpg" width="220"/>
-  <img src="screenshots/4.jpg" width="220"/>
-</p>
 
 ---
 
